@@ -1,0 +1,15 @@
+#logo{
+    width: 2rem;
+}
+
+body{
+    height: 100vh;
+    background: rgb(150,25,198);
+    background: linear-gradient(180deg, rgba(150,25,198,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+.card{
+    background-color: transparent;
+    border: none;
+    text-align: center;
+}
